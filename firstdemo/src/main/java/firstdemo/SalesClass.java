@@ -8,4 +8,8 @@ public class SalesClass {
 			System.out.println(num);
 	}
 
+	public void print() {
+		System.out.println("Print All Array Number:");
+		display();
+	}
 }
